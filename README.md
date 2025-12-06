@@ -52,16 +52,14 @@ ___
 ```
 Text-Analysis-Platform-using-Python-GenAI/
 │
-├── .git/
+├── Scripts/
+│      ├── app.py
+│      ├── nlp_functions.py
+│      └── text_cleaner.py
 ├── .gitattributes
 ├── .gitignore
 ├── README
 ├── Text Analysis Platform Report
-└── Scripts/
-      ├── app.py
-      ├── nlp_functions.py
-      └── text_cleaner.py
-
 ```
 
 ___
