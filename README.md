@@ -58,8 +58,8 @@ Text-Analysis-Platform-using-Python-GenAI/
 │      └── text_cleaner.py
 ├── .gitattributes
 ├── .gitignore
-├── README
-└──Text Analysis Platform Report
+├── README.md
+└── Text Analysis Platform Report.pdf
 ```
 
 ___
