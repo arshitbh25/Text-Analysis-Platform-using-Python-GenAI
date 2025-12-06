@@ -59,7 +59,7 @@ Text-Analysis-Platform-using-Python-GenAI/
 ├── .gitattributes
 ├── .gitignore
 ├── README
-├── Text Analysis Platform Report
+└──Text Analysis Platform Report
 ```
 
 ___
