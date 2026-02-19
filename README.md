@@ -160,7 +160,7 @@ ___
 <h2><a class="anchor" id="author--contact"></a>Author and Contact</h2>
 
 **Arshit Bhardwaj**  
-Emerging Data Analyst
+Aspiring Data Analyst
 
 📧 Email: arshitbh25@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arshit-bhardwaj/)  
