@@ -56,9 +56,13 @@ Text-Analysis-Platform-using-Python-GenAI/
 │      ├── app.py
 │      ├── nlp_functions.py
 │      └── text_cleaner.py
+│
 ├── .gitattributes
+│
 ├── .gitignore
+│
 ├── README.md
+│
 └── Text Analysis Platform Report.pdf
 ```
 
