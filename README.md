@@ -164,4 +164,4 @@ Aspiring Data Analyst
 
 📧 Email: arshitbh25@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/arshit-bhardwaj/)  
-🔗 [Portfolio](https://sites.google.com/view/arshit-bhardwaj/)
+🔗 [Portfolio](https://arshitbhardwaj.edgeone.app/)
